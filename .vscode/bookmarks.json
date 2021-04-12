@@ -1,0 +1,24 @@
+{
+	"files": [
+		{
+			"path": "run_me.py",
+			"bookmarks": [
+				{
+					"line": 99,
+					"column": 17,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "utils/sliding_window.py",
+			"bookmarks": [
+				{
+					"line": 146,
+					"column": 44,
+					"label": ""
+				}
+			]
+		}
+	]
+}

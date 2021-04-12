@@ -1,0 +1,10 @@
+Unreal/**/Build
+Unreal/**/Saved
+Unreal/**/Intermediate
+Unreal/**/Binaries
+*.exe
+CMakeCache.txt
+CMakeFiles
+.cmake
+c++/**/build
+./.vscode
